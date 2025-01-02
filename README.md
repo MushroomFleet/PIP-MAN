@@ -1,5 +1,5 @@
 # PIP-MAN (PIP Manager)
-![Demo UI](https://github.com/MushroomFleet/PIP-MAN/main/images/pip-man-demo.png)
+![Demo UI](https://raw.githubusercontent.com/MushroomFleet/PIP-MAN/main/images/pip-man-demo.png)
 
 A user-friendly Python package manager with both GUI and CLI interfaces. PIP-MAN provides an intuitive way to manage Python packages in any Python environment, particularly useful for managing packages in embedded Python installations.
 
